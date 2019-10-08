@@ -1,5 +1,4 @@
 # test_aulabalear
-<<<<<<< HEAD
 Repositori de proves per exercicis amb Aula Balear
 ;Moneda 49 49 1 (AutoHotkey)
 Random, Moneda, 1, 100
@@ -9,10 +8,8 @@ if Moneda between 51 and 99
 MsgBox, Cruz
 if Moneda = 100
 MsgBox, Canto
-=======
 Repositori de proves per exercicis amb Aula Balear.
-
 Aquest arxiu ha estat modificat, unicament amb texte.
-
 Per Kirill Munar Frau
->>>>>>> 7d3d747eb81ad9e214cf0b158eaee88cbedd261b
+
+En Toni ha fet un merge!!!
